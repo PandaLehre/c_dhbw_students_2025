@@ -100,6 +100,19 @@ Hello DHBW!
 
 ---
 
+## Git & GitHub einrichten
+
+Für Versionskontrolle und Zusammenarbeit arbeiten wir mit Git und GitHub.
+Entsprechende Grundlagen werden in der Vorlesung vermittelt.
+
+Nachdem Sie einen Github Account erstellt haben, richten Sie Git lokal ein.
+Offizielle Unterlagen zur Einrichten finden Sie unter Anderem hier:
+
+* [Git - Offizielle Seite](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Git Commands](https://github.com/PandaLehre/git_commands)
+
+---
+
 ## DIE FOLGEDNEN ABCHNITTE WERDEN IM LAUFE DER VORLESUNG EINGERICHTET / EINGEFÜHRT
 
 ### Debugging in VS Code
@@ -116,12 +129,6 @@ Start:
 1. „Run & Debug“ in der linken Leiste
 2. Breakpoints setzen
 3. Debug starten
-
----
-
-### Git & GitHub
-
-VS Code bietet integrierte Git-Unterstützung.
 
 ---
 
