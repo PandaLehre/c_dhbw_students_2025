@@ -21,10 +21,10 @@ Note:
 ```cpp
 int main()
 {
-    float millisconds = 0.0F;
+    float milliseconds = 0.0F;
 
     printf("Please enter a millisecond value: ");
-    scanf("%f", &millisconds);
+    scanf("%f", &milliseconds);
 
     ...
 
